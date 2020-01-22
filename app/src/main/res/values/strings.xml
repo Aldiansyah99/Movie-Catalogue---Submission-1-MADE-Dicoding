@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tv_judul_film">Judul Film</string>
+    <string name="tv_genre_film">Genre Film</string>
+    <string name="tv_0_0">0.0</string>
+    <string name="tv_description">Description</string>
+    <string name="tv_overview">Overview</string>
+    <string name="tv_runtime">Runtime</string>
+
+    <string-array name="data_title">
+        <item>Avengers: Infinity War</item>
+        <item>Bumblebee</item>
+        <item>Black Panther</item>
+        <item>Ant-Man and The Wasp</item>
+        <item>Deadpool 2</item>
+        <item>Aquaman</item>
+        <item>Robin Hood</item>
+        <item>Jurassic World</item>
+        <item>Pacific Rim</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Adventure, Action</item>
+        <item>Adventure, Action</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Adventure, Comedy</item>
+        <item>Action, Comedy</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Adventure</item>
+        <item>Action, Adventure</item>
+        <item>Action, Fantasy, Adventure</item>
+        <item>Science Fiction, Action</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>8.0</item>
+        <item>5.0</item>
+        <item>7.0</item>
+        <item>5.0</item>
+        <item>9.0</item>
+        <item>7.0</item>
+        <item>5.0</item>
+        <item>8.0</item>
+        <item>8.0</item>
+        <item>7.0</item>
+    </string-array>
+
+    <string-array name="data_runtime">
+        <item>2h 29m</item>
+        <item>1h 54m</item>
+        <item>2h 14m</item>
+        <item>1h 59m</item>
+        <item>2h 1m</item>
+        <item>2h 24m</item>
+        <item>1h 56m</item>
+        <item>2h 9m</item>
+        <item>1h 51m</item>
+        <item>1h 52m</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>King T Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his countrys new leader. However, T Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T Challa assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje and an American secret agent, to prevent Wakanda from being dragged into a world war.</item>
+        <item>Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.</item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boys life.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orms half-human, half Atlantean brother and true heir to the throne.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.</item>
+        <item>It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+    </string-array>
+
+    <array name="data_image">
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_blackpanther</item>
+        <item>@drawable/poster_antman</item>
+        <item>@drawable/poster_deadpool2</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_jurassicworld</item>
+        <item>@drawable/poster_pacificrim</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <array name="data_imageCover">
+        <item>@drawable/bg_avengersinfinity</item>
+        <item>@drawable/bg_bumblebee</item>
+        <item>@drawable/bg_blackpanther</item>
+        <item>@drawable/bg_antman</item>
+        <item>@drawable/bg_deadpool</item>
+        <item>@drawable/bg_aquaman</item>
+        <item>@drawable/bg_robinhood</item>
+        <item>@drawable/bg_jurassicworld</item>
+        <item>@drawable/bg_pacificrim</item>
+        <item>@drawable/bg_venom</item>
+    </array>
+
+</resources>
